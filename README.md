@@ -1,2 +1,2 @@
 # code-guessing
-Hi i do https://cg.esolangs.gay/info sometimes
+It looks like there's a hot chance i'll upload stuff here
